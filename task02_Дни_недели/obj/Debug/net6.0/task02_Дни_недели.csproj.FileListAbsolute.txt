@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\C_sharp\task02_Дни_недели\bin\Debug\net6.0\task02_Дни_недели.exe
+C:\Users\Asus\Desktop\C_sharp\task02_Дни_недели\bin\Debug\net6.0\task02_Дни_недели.deps.json
+C:\Users\Asus\Desktop\C_sharp\task02_Дни_недели\bin\Debug\net6.0\task02_Дни_недели.runtimeconfig.json
+C:\Users\Asus\Desktop\C_sharp\task02_Дни_недели\bin\Debug\net6.0\task02_Дни_недели.dll
+C:\Users\Asus\Desktop\C_sharp\task02_Дни_недели\bin\Debug\net6.0\ref\task02_Дни_недели.dll
+C:\Users\Asus\Desktop\C_sharp\task02_Дни_недели\bin\Debug\net6.0\task02_Дни_недели.pdb
+C:\Users\Asus\Desktop\C_sharp\task02_Дни_недели\obj\Debug\net6.0\task02_Дни_недели.GlobalUsings.g.cs
+C:\Users\Asus\Desktop\C_sharp\task02_Дни_недели\obj\Debug\net6.0\task02_Дни_недели.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C_sharp\task02_Дни_недели\obj\Debug\net6.0\task02_Дни_недели.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C_sharp\task02_Дни_недели\obj\Debug\net6.0\task02_Дни_недели.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task02_Дни_недели\obj\Debug\net6.0\task02_Дни_недели.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C_sharp\task02_Дни_недели\obj\Debug\net6.0\task02_Дни_недели.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task02_Дни_недели\obj\Debug\net6.0\task02_Дни_недели.dll
+C:\Users\Asus\Desktop\C_sharp\task02_Дни_недели\obj\Debug\net6.0\ref\task02_Дни_недели.dll
+C:\Users\Asus\Desktop\C_sharp\task02_Дни_недели\obj\Debug\net6.0\task02_Дни_недели.pdb
+C:\Users\Asus\Desktop\C_sharp\task02_Дни_недели\obj\Debug\net6.0\task02_Дни_недели.genruntimeconfig.cache
