@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\C_sharp\task18_string\bin\Debug\net6.0\task18_string.exe
+C:\Users\Asus\Desktop\C_sharp\task18_string\bin\Debug\net6.0\task18_string.deps.json
+C:\Users\Asus\Desktop\C_sharp\task18_string\bin\Debug\net6.0\task18_string.runtimeconfig.json
+C:\Users\Asus\Desktop\C_sharp\task18_string\bin\Debug\net6.0\task18_string.dll
+C:\Users\Asus\Desktop\C_sharp\task18_string\bin\Debug\net6.0\ref\task18_string.dll
+C:\Users\Asus\Desktop\C_sharp\task18_string\bin\Debug\net6.0\task18_string.pdb
+C:\Users\Asus\Desktop\C_sharp\task18_string\obj\Debug\net6.0\task18_string.GlobalUsings.g.cs
+C:\Users\Asus\Desktop\C_sharp\task18_string\obj\Debug\net6.0\task18_string.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C_sharp\task18_string\obj\Debug\net6.0\task18_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C_sharp\task18_string\obj\Debug\net6.0\task18_string.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task18_string\obj\Debug\net6.0\task18_string.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C_sharp\task18_string\obj\Debug\net6.0\task18_string.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task18_string\obj\Debug\net6.0\task18_string.dll
+C:\Users\Asus\Desktop\C_sharp\task18_string\obj\Debug\net6.0\ref\task18_string.dll
+C:\Users\Asus\Desktop\C_sharp\task18_string\obj\Debug\net6.0\task18_string.pdb
+C:\Users\Asus\Desktop\C_sharp\task18_string\obj\Debug\net6.0\task18_string.genruntimeconfig.cache

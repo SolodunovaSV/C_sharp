@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\C_sharp\task22_while\bin\Debug\net6.0\task22_while.exe
+C:\Users\Asus\Desktop\C_sharp\task22_while\bin\Debug\net6.0\task22_while.deps.json
+C:\Users\Asus\Desktop\C_sharp\task22_while\bin\Debug\net6.0\task22_while.runtimeconfig.json
+C:\Users\Asus\Desktop\C_sharp\task22_while\bin\Debug\net6.0\task22_while.dll
+C:\Users\Asus\Desktop\C_sharp\task22_while\bin\Debug\net6.0\ref\task22_while.dll
+C:\Users\Asus\Desktop\C_sharp\task22_while\bin\Debug\net6.0\task22_while.pdb
+C:\Users\Asus\Desktop\C_sharp\task22_while\obj\Debug\net6.0\task22_while.GlobalUsings.g.cs
+C:\Users\Asus\Desktop\C_sharp\task22_while\obj\Debug\net6.0\task22_while.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C_sharp\task22_while\obj\Debug\net6.0\task22_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C_sharp\task22_while\obj\Debug\net6.0\task22_while.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task22_while\obj\Debug\net6.0\task22_while.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C_sharp\task22_while\obj\Debug\net6.0\task22_while.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task22_while\obj\Debug\net6.0\task22_while.dll
+C:\Users\Asus\Desktop\C_sharp\task22_while\obj\Debug\net6.0\ref\task22_while.dll
+C:\Users\Asus\Desktop\C_sharp\task22_while\obj\Debug\net6.0\task22_while.pdb
+C:\Users\Asus\Desktop\C_sharp\task22_while\obj\Debug\net6.0\task22_while.genruntimeconfig.cache
