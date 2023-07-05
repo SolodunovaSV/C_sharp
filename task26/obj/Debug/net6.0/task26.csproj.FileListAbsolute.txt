@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\C_sharp\task26\bin\Debug\net6.0\task26.exe
+C:\Users\Asus\Desktop\C_sharp\task26\bin\Debug\net6.0\task26.deps.json
+C:\Users\Asus\Desktop\C_sharp\task26\bin\Debug\net6.0\task26.runtimeconfig.json
+C:\Users\Asus\Desktop\C_sharp\task26\bin\Debug\net6.0\task26.dll
+C:\Users\Asus\Desktop\C_sharp\task26\bin\Debug\net6.0\ref\task26.dll
+C:\Users\Asus\Desktop\C_sharp\task26\bin\Debug\net6.0\task26.pdb
+C:\Users\Asus\Desktop\C_sharp\task26\obj\Debug\net6.0\task26.GlobalUsings.g.cs
+C:\Users\Asus\Desktop\C_sharp\task26\obj\Debug\net6.0\task26.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C_sharp\task26\obj\Debug\net6.0\task26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C_sharp\task26\obj\Debug\net6.0\task26.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task26\obj\Debug\net6.0\task26.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C_sharp\task26\obj\Debug\net6.0\task26.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task26\obj\Debug\net6.0\task26.dll
+C:\Users\Asus\Desktop\C_sharp\task26\obj\Debug\net6.0\ref\task26.dll
+C:\Users\Asus\Desktop\C_sharp\task26\obj\Debug\net6.0\task26.pdb
+C:\Users\Asus\Desktop\C_sharp\task26\obj\Debug\net6.0\task26.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\C_sharp\task30\bin\Debug\net6.0\task30.exe
+C:\Users\Asus\Desktop\C_sharp\task30\bin\Debug\net6.0\task30.deps.json
+C:\Users\Asus\Desktop\C_sharp\task30\bin\Debug\net6.0\task30.runtimeconfig.json
+C:\Users\Asus\Desktop\C_sharp\task30\bin\Debug\net6.0\task30.dll
+C:\Users\Asus\Desktop\C_sharp\task30\bin\Debug\net6.0\ref\task30.dll
+C:\Users\Asus\Desktop\C_sharp\task30\bin\Debug\net6.0\task30.pdb
+C:\Users\Asus\Desktop\C_sharp\task30\obj\Debug\net6.0\task30.GlobalUsings.g.cs
+C:\Users\Asus\Desktop\C_sharp\task30\obj\Debug\net6.0\task30.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C_sharp\task30\obj\Debug\net6.0\task30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C_sharp\task30\obj\Debug\net6.0\task30.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task30\obj\Debug\net6.0\task30.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C_sharp\task30\obj\Debug\net6.0\task30.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task30\obj\Debug\net6.0\task30.dll
+C:\Users\Asus\Desktop\C_sharp\task30\obj\Debug\net6.0\ref\task30.dll
+C:\Users\Asus\Desktop\C_sharp\task30\obj\Debug\net6.0\task30.pdb
+C:\Users\Asus\Desktop\C_sharp\task30\obj\Debug\net6.0\task30.genruntimeconfig.cache
