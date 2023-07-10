@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\C_sharp\task33_4str\bin\Debug\net6.0\task33_4str.exe
+C:\Users\Asus\Desktop\C_sharp\task33_4str\bin\Debug\net6.0\task33_4str.deps.json
+C:\Users\Asus\Desktop\C_sharp\task33_4str\bin\Debug\net6.0\task33_4str.runtimeconfig.json
+C:\Users\Asus\Desktop\C_sharp\task33_4str\bin\Debug\net6.0\task33_4str.dll
+C:\Users\Asus\Desktop\C_sharp\task33_4str\bin\Debug\net6.0\ref\task33_4str.dll
+C:\Users\Asus\Desktop\C_sharp\task33_4str\bin\Debug\net6.0\task33_4str.pdb
+C:\Users\Asus\Desktop\C_sharp\task33_4str\obj\Debug\net6.0\task33_4str.GlobalUsings.g.cs
+C:\Users\Asus\Desktop\C_sharp\task33_4str\obj\Debug\net6.0\task33_4str.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C_sharp\task33_4str\obj\Debug\net6.0\task33_4str.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C_sharp\task33_4str\obj\Debug\net6.0\task33_4str.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task33_4str\obj\Debug\net6.0\task33_4str.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C_sharp\task33_4str\obj\Debug\net6.0\task33_4str.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task33_4str\obj\Debug\net6.0\task33_4str.dll
+C:\Users\Asus\Desktop\C_sharp\task33_4str\obj\Debug\net6.0\ref\task33_4str.dll
+C:\Users\Asus\Desktop\C_sharp\task33_4str\obj\Debug\net6.0\task33_4str.pdb
+C:\Users\Asus\Desktop\C_sharp\task33_4str\obj\Debug\net6.0\task33_4str.genruntimeconfig.cache
