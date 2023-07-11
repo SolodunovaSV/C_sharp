@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\C_sharp\task36_HW\bin\Debug\net6.0\task36_HW.exe
+C:\Users\Asus\Desktop\C_sharp\task36_HW\bin\Debug\net6.0\task36_HW.deps.json
+C:\Users\Asus\Desktop\C_sharp\task36_HW\bin\Debug\net6.0\task36_HW.runtimeconfig.json
+C:\Users\Asus\Desktop\C_sharp\task36_HW\bin\Debug\net6.0\task36_HW.dll
+C:\Users\Asus\Desktop\C_sharp\task36_HW\bin\Debug\net6.0\ref\task36_HW.dll
+C:\Users\Asus\Desktop\C_sharp\task36_HW\bin\Debug\net6.0\task36_HW.pdb
+C:\Users\Asus\Desktop\C_sharp\task36_HW\obj\Debug\net6.0\task36_HW.GlobalUsings.g.cs
+C:\Users\Asus\Desktop\C_sharp\task36_HW\obj\Debug\net6.0\task36_HW.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C_sharp\task36_HW\obj\Debug\net6.0\task36_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C_sharp\task36_HW\obj\Debug\net6.0\task36_HW.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task36_HW\obj\Debug\net6.0\task36_HW.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C_sharp\task36_HW\obj\Debug\net6.0\task36_HW.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task36_HW\obj\Debug\net6.0\task36_HW.dll
+C:\Users\Asus\Desktop\C_sharp\task36_HW\obj\Debug\net6.0\ref\task36_HW.dll
+C:\Users\Asus\Desktop\C_sharp\task36_HW\obj\Debug\net6.0\task36_HW.pdb
+C:\Users\Asus\Desktop\C_sharp\task36_HW\obj\Debug\net6.0\task36_HW.genruntimeconfig.cache
