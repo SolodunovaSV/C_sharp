@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\C_sharp\task45\bin\Debug\net6.0\task45.exe
+C:\Users\Asus\Desktop\C_sharp\task45\bin\Debug\net6.0\task45.deps.json
+C:\Users\Asus\Desktop\C_sharp\task45\bin\Debug\net6.0\task45.runtimeconfig.json
+C:\Users\Asus\Desktop\C_sharp\task45\bin\Debug\net6.0\task45.dll
+C:\Users\Asus\Desktop\C_sharp\task45\bin\Debug\net6.0\ref\task45.dll
+C:\Users\Asus\Desktop\C_sharp\task45\bin\Debug\net6.0\task45.pdb
+C:\Users\Asus\Desktop\C_sharp\task45\obj\Debug\net6.0\task45.GlobalUsings.g.cs
+C:\Users\Asus\Desktop\C_sharp\task45\obj\Debug\net6.0\task45.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C_sharp\task45\obj\Debug\net6.0\task45.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C_sharp\task45\obj\Debug\net6.0\task45.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task45\obj\Debug\net6.0\task45.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C_sharp\task45\obj\Debug\net6.0\task45.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task45\obj\Debug\net6.0\task45.dll
+C:\Users\Asus\Desktop\C_sharp\task45\obj\Debug\net6.0\ref\task45.dll
+C:\Users\Asus\Desktop\C_sharp\task45\obj\Debug\net6.0\task45.pdb
+C:\Users\Asus\Desktop\C_sharp\task45\obj\Debug\net6.0\task45.genruntimeconfig.cache
