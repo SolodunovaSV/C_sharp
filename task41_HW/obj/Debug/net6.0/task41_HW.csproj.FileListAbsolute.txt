@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\C_sharp\task41_HW\obj\Debug\net6.0\task41_HW.GlobalUsings.g.cs
+C:\Users\Asus\Desktop\C_sharp\task41_HW\obj\Debug\net6.0\task41_HW.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C_sharp\task41_HW\obj\Debug\net6.0\task41_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C_sharp\task41_HW\obj\Debug\net6.0\task41_HW.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task41_HW\obj\Debug\net6.0\task41_HW.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C_sharp\task41_HW\obj\Debug\net6.0\task41_HW.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task41_HW\bin\Debug\net6.0\task41_HW.exe
+C:\Users\Asus\Desktop\C_sharp\task41_HW\bin\Debug\net6.0\task41_HW.deps.json
+C:\Users\Asus\Desktop\C_sharp\task41_HW\bin\Debug\net6.0\task41_HW.runtimeconfig.json
+C:\Users\Asus\Desktop\C_sharp\task41_HW\bin\Debug\net6.0\task41_HW.dll
+C:\Users\Asus\Desktop\C_sharp\task41_HW\bin\Debug\net6.0\ref\task41_HW.dll
+C:\Users\Asus\Desktop\C_sharp\task41_HW\bin\Debug\net6.0\task41_HW.pdb
+C:\Users\Asus\Desktop\C_sharp\task41_HW\obj\Debug\net6.0\task41_HW.dll
+C:\Users\Asus\Desktop\C_sharp\task41_HW\obj\Debug\net6.0\ref\task41_HW.dll
+C:\Users\Asus\Desktop\C_sharp\task41_HW\obj\Debug\net6.0\task41_HW.pdb
+C:\Users\Asus\Desktop\C_sharp\task41_HW\obj\Debug\net6.0\task41_HW.genruntimeconfig.cache

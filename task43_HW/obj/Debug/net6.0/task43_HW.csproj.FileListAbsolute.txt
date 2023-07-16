@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\C_sharp\task43_HW\bin\Debug\net6.0\task43_HW.exe
+C:\Users\Asus\Desktop\C_sharp\task43_HW\bin\Debug\net6.0\task43_HW.deps.json
+C:\Users\Asus\Desktop\C_sharp\task43_HW\bin\Debug\net6.0\task43_HW.runtimeconfig.json
+C:\Users\Asus\Desktop\C_sharp\task43_HW\bin\Debug\net6.0\task43_HW.dll
+C:\Users\Asus\Desktop\C_sharp\task43_HW\bin\Debug\net6.0\ref\task43_HW.dll
+C:\Users\Asus\Desktop\C_sharp\task43_HW\bin\Debug\net6.0\task43_HW.pdb
+C:\Users\Asus\Desktop\C_sharp\task43_HW\obj\Debug\net6.0\task43_HW.GlobalUsings.g.cs
+C:\Users\Asus\Desktop\C_sharp\task43_HW\obj\Debug\net6.0\task43_HW.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C_sharp\task43_HW\obj\Debug\net6.0\task43_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C_sharp\task43_HW\obj\Debug\net6.0\task43_HW.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task43_HW\obj\Debug\net6.0\task43_HW.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C_sharp\task43_HW\obj\Debug\net6.0\task43_HW.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task43_HW\obj\Debug\net6.0\task43_HW.dll
+C:\Users\Asus\Desktop\C_sharp\task43_HW\obj\Debug\net6.0\ref\task43_HW.dll
+C:\Users\Asus\Desktop\C_sharp\task43_HW\obj\Debug\net6.0\task43_HW.pdb
+C:\Users\Asus\Desktop\C_sharp\task43_HW\obj\Debug\net6.0\task43_HW.genruntimeconfig.cache
