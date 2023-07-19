@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\C_sharp\task50_HW\obj\Debug\net6.0\task50_HW.GlobalUsings.g.cs
+C:\Users\Asus\Desktop\C_sharp\task50_HW\obj\Debug\net6.0\task50_HW.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C_sharp\task50_HW\obj\Debug\net6.0\task50_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C_sharp\task50_HW\obj\Debug\net6.0\task50_HW.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task50_HW\obj\Debug\net6.0\task50_HW.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C_sharp\task50_HW\obj\Debug\net6.0\task50_HW.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task50_HW\bin\Debug\net6.0\task50_HW.exe
+C:\Users\Asus\Desktop\C_sharp\task50_HW\bin\Debug\net6.0\task50_HW.deps.json
+C:\Users\Asus\Desktop\C_sharp\task50_HW\bin\Debug\net6.0\task50_HW.runtimeconfig.json
+C:\Users\Asus\Desktop\C_sharp\task50_HW\bin\Debug\net6.0\task50_HW.dll
+C:\Users\Asus\Desktop\C_sharp\task50_HW\bin\Debug\net6.0\ref\task50_HW.dll
+C:\Users\Asus\Desktop\C_sharp\task50_HW\bin\Debug\net6.0\task50_HW.pdb
+C:\Users\Asus\Desktop\C_sharp\task50_HW\obj\Debug\net6.0\task50_HW.dll
+C:\Users\Asus\Desktop\C_sharp\task50_HW\obj\Debug\net6.0\ref\task50_HW.dll
+C:\Users\Asus\Desktop\C_sharp\task50_HW\obj\Debug\net6.0\task50_HW.pdb
+C:\Users\Asus\Desktop\C_sharp\task50_HW\obj\Debug\net6.0\task50_HW.genruntimeconfig.cache

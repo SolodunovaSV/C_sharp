@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\C_sharp\task47_HW\obj\Debug\net6.0\task47_HW.GlobalUsings.g.cs
+C:\Users\Asus\Desktop\C_sharp\task47_HW\obj\Debug\net6.0\task47_HW.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C_sharp\task47_HW\obj\Debug\net6.0\task47_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C_sharp\task47_HW\obj\Debug\net6.0\task47_HW.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task47_HW\obj\Debug\net6.0\task47_HW.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C_sharp\task47_HW\obj\Debug\net6.0\task47_HW.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task47_HW\bin\Debug\net6.0\task47_HW.exe
+C:\Users\Asus\Desktop\C_sharp\task47_HW\bin\Debug\net6.0\task47_HW.deps.json
+C:\Users\Asus\Desktop\C_sharp\task47_HW\bin\Debug\net6.0\task47_HW.runtimeconfig.json
+C:\Users\Asus\Desktop\C_sharp\task47_HW\bin\Debug\net6.0\task47_HW.dll
+C:\Users\Asus\Desktop\C_sharp\task47_HW\bin\Debug\net6.0\ref\task47_HW.dll
+C:\Users\Asus\Desktop\C_sharp\task47_HW\bin\Debug\net6.0\task47_HW.pdb
+C:\Users\Asus\Desktop\C_sharp\task47_HW\obj\Debug\net6.0\task47_HW.dll
+C:\Users\Asus\Desktop\C_sharp\task47_HW\obj\Debug\net6.0\ref\task47_HW.dll
+C:\Users\Asus\Desktop\C_sharp\task47_HW\obj\Debug\net6.0\task47_HW.pdb
+C:\Users\Asus\Desktop\C_sharp\task47_HW\obj\Debug\net6.0\task47_HW.genruntimeconfig.cache
