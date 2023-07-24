@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\C_sharp\task65\bin\Debug\net6.0\task65.exe
+C:\Users\Asus\Desktop\C_sharp\task65\bin\Debug\net6.0\task65.deps.json
+C:\Users\Asus\Desktop\C_sharp\task65\bin\Debug\net6.0\task65.runtimeconfig.json
+C:\Users\Asus\Desktop\C_sharp\task65\bin\Debug\net6.0\task65.dll
+C:\Users\Asus\Desktop\C_sharp\task65\bin\Debug\net6.0\ref\task65.dll
+C:\Users\Asus\Desktop\C_sharp\task65\bin\Debug\net6.0\task65.pdb
+C:\Users\Asus\Desktop\C_sharp\task65\obj\Debug\net6.0\task65.GlobalUsings.g.cs
+C:\Users\Asus\Desktop\C_sharp\task65\obj\Debug\net6.0\task65.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C_sharp\task65\obj\Debug\net6.0\task65.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C_sharp\task65\obj\Debug\net6.0\task65.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task65\obj\Debug\net6.0\task65.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C_sharp\task65\obj\Debug\net6.0\task65.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C_sharp\task65\obj\Debug\net6.0\task65.dll
+C:\Users\Asus\Desktop\C_sharp\task65\obj\Debug\net6.0\ref\task65.dll
+C:\Users\Asus\Desktop\C_sharp\task65\obj\Debug\net6.0\task65.pdb
+C:\Users\Asus\Desktop\C_sharp\task65\obj\Debug\net6.0\task65.genruntimeconfig.cache
